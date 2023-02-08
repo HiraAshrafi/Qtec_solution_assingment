@@ -1,4 +1,6 @@
 # assigment
+![Screenshot (124)](https://user-images.githubusercontent.com/86703662/217534240-9e94f3ed-64f2-487e-8d31-7201c069b8d1.png)
+
 
 A new Flutter project.
 
@@ -20,4 +22,5 @@ This recipe uses the following steps:
     2.Make a network request using the http package.
     3.Convert the response into a custom Dart object.
     4.Fetch and display the data with Flutter
+    
 

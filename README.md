@@ -2,15 +2,22 @@
 
 A new Flutter project.
 
-## Getting Started
+Using this Project GetX State Mangement
 
-This project is a starting point for a Flutter application.
+GetX is not only a state management library, but instead, it is a microframework combined with route management and dependency injection. It aims to deliver top-of-the-line development experience in an extra lightweight but powerful solution for Flutter. GetX has three basic principles on which it is built:
 
-A few resources to get you started if this is your first Flutter project:
+    1.Performance: focused on minimum consumption of memory and resources
+    2. Productivity: intuitive and efficient tool combined with simplicity and straightforward syntax that ultimately saves development time
+    3.Organization: decoupling business logic from view and presentation logic cannot get better than this. You do not need context to navigate between routes, nor do you need stateful widgets
+    
+    
+    Using Http Get Request
+    Fetching data from the internet is necessary for most apps. Luckily, Dart and Flutter provide tools, such as the http package, for this type of work.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This recipe uses the following steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    1.Add the http package.
+    2.Make a network request using the http package.
+    3.Convert the response into a custom Dart object.
+    4.Fetch and display the data with Flutter
+
